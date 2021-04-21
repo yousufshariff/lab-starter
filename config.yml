@@ -30,19 +30,19 @@ steps:
   actions: # a list of the actions that will occur when the step is triggered by an event
   - type: # the type of action, full list at https://lab.github.com/docs/actions
 
-# Step 2: EDIT HERE -INTERNAL COMMENT FOR STEP 2
-# - title: # the title of the step, shown to the learner in the course progress page
-#  description: # Basic setup goes here
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
-#  actions: # a list of the actions that will occur when the step is triggered by an event
-#  - type: # the type of action, full list at https://lab.github.com/docs/actions
+# Step 2: Beginners charm
+- title: # Charming the Beginners
+  description: # introducing the beginners
+  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+  actions: # a list of the actions that will occur when the step is triggered by an event
+  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 3: Getting started
-# - title: # the title of the step, shown to the learner in the course progress page
-#  description: # a description of the step, shown to the learner in the course progress page
-#  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
-#  actions: # a list of the actions that will occur when the step is triggered by an event
-#  - type: # the type of action, full list at https://lab.github.com/docs/actions
+- title: # Lets get this started
+  description: # starting with pentesting
+  event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
+  actions: # a list of the actions that will occur when the step is triggered by an event
+  - type: # the type of action, full list at https://lab.github.com/docs/actions
 
 # Step 4: Lets tell you a story
 # - title: # the title of the step, shown to the learner in the course progress page
